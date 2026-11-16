@@ -23,4 +23,4 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
-Sitemap: https://mariocruz.github.io/mepegue/sitemap.xml
+Sitemap: https://mepegueapp.com/sitemap.xml

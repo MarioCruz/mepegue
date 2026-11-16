@@ -7,7 +7,7 @@ domain; all links between pages are relative and keep working either way.
 """
 import os
 
-BASE = "https://mariocruz.github.io/mepegue/"
+BASE = "https://mepegueapp.com/"
 EFFECTIVE = {"en": "15 November 2026", "es": "15 de noviembre de 2026"}
 MAIL = '<a class="em" href="#" data-u="mario" data-d="mariothemaker.com">mario [at] mariothemaker [dot] com</a>'
 

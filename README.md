@@ -3,7 +3,7 @@
 Public home, support and privacy pages for **Me Pegué**, the domino score keeper for
 iPhone. Plain static HTML in English and Spanish, served by GitHub Pages.
 
-- **Live:** https://mariocruz.github.io/mepegue/
+- **Live:** https://mepegueapp.com/
 - **App repo:** private (`MarioCruz/me-pegue`).
 
 ## Pages
